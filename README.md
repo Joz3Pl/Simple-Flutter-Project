@@ -1,5 +1,5 @@
 # Simple-Flutter-Project
-<h2> A simple collection of many app, to exercise. (Android only/maybe windows {don't have a mac})</h2>
+<h2> A simple collection of many app, to exercise. (Android only)</h2>
 <ul>
     <li>Simple Project<ul>
       <li>To-Do App ✘</li>
